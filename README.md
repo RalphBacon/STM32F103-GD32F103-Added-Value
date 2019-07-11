@@ -1,12 +1,13 @@
-# STM32F103 vs GD32F103 ARM Cortex M3 - Added-Value?
+# STM32F103 vs GD32F103 ARM Cortex M3 - Added Value?
 ## See https://www.youtube.com/ralph video #153
 #### (Direct Link to video: https://youtu.be/VE8-DCMXzo8)
 
 ### LCSC China's Leading Electronic Components Distributor  
 #### Shop: https://lcsc.com/?href=arduinoelectronics&source=referral
 #### All components used in this video supplied by LCSC.com  
+##### PCB design by EasyEDA and manufactured by JLCPCB.com
 
-Does the GD32F103 ARM Cortex M3 licenced processor add value to the Blue Pill?
+#### *Does the GD32F103 ARM Cortex M3 licenced processor add value to the Original Blue Pill?*
 
 In conjunction with my sponsor, lcsc.com, we thought it would be interesting to compare international brands (such as STMicroelectronics, an international manufacturer) to predominantly Chinese market suppliers (such as GigaDevice, an authorised Asian manufacturer).
 
