@@ -3,7 +3,7 @@
 #### (Direct Link to video: https://youtu.be/VE8-DCMXzo8)
 
 ### LCSC China's Leading Electronic Components Distributor  
-#### Shop: https://lcsc.com/?href=arduinoelectronics&source=referral
+#### Shop: https://lcsc.com/?href=ralphsbacon&source=referral
 #### All components used in this video supplied by LCSC.com  
 ##### PCB design by EasyEDA and manufactured by JLCPCB.com
 
