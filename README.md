@@ -3,8 +3,7 @@
 #### (Direct Link to video: https://youtu.be/VE8-DCMXzo8)
 
 ### LCSC China's Leading Electronic Components Distributor  
-#### $8 off your first order at LCSC Electronics with
-#### https://lcsc.com/?href=ralphsbacon&source=referral
+#### $8 off your first order at LCSC Electronics with https://lcsc.com/?href=ralphsbacon&source=referral
 #### All components used in this video supplied by LCSC.com  
 ##### PCB design by EasyEDA and manufactured by JLCPCB.com
 
